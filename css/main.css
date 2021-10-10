@@ -2199,7 +2199,7 @@ html.no-csstransitions .home-content__main {
 .s-about {
     padding-top: 15rem;
     padding-bottom: 9rem;
-    background-color: #FFFFFF;
+    background-color: #EEEEEE;
     position: relative;
 }
 
@@ -3041,12 +3041,11 @@ html.no-csstransitions .home-content__main {
 
 .s-contact {
     background-color: #151515;
-    background-image: url("../images/contact-bg.jpg");
     background-repeat: no-repeat;
     background-position: center, center;
     padding-top: 13.2rem;
     padding-bottom: 12rem;
-    color: rgba(255, 255, 255, 0.5);
+    color: white;
     position: relative;
 }
 
@@ -3134,7 +3133,7 @@ html.no-csstransitions .home-content__main {
     background-color: transparent;
     border-bottom: 1px solid rgba(255, 255, 255, 0.1);
     margin-bottom: .9rem;
-    color: rgba(255, 255, 255, 0.75);
+    color: white;
 }
 
 .contact__form input[type="email"]:focus, 
